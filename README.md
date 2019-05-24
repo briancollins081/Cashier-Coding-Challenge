@@ -25,7 +25,7 @@ Javascript Program to help Cashier to correctly give change in a shop or superma
  Instructions:
  
 	To run the program: 
-		*open index.html in a browser, 
+		*open index.html in google chrome browser, 
 		*press Ctrl+Shift+I to open developer tools,
 		*click on the tab with console on it.
 		*Now refresh the page by pressing Ctr+R
