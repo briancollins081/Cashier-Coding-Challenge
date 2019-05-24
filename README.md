@@ -21,11 +21,11 @@ Javascript Program to help Cashier to correctly give change in a shop or superma
 		*Ksh.5.00    coins
 		*Ksh.1.00    coins
 		*Ksh.1    cents -> 100cents= Ksh 1.00
- 
-To run the program: 
-	*open index.html in a browser, 
-	*press Ctrl+Shift+I to open developer tools,
-	*click on the tab with console on it.
-	*Now refresh the page by pressing Ctr+R
-	*Key in the details
-	*View Summary in Console
+ Instructions:
+	To run the program: 
+		*open index.html in a browser, 
+		*press Ctrl+Shift+I to open developer tools,
+		*click on the tab with console on it.
+		*Now refresh the page by pressing Ctr+R
+		*Key in the details
+		*View Summary in Console
